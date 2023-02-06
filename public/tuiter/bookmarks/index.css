@@ -1,0 +1,60 @@
+.wd-padding-top-bottom {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.wd-padding-left-right {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.wd-font-size-l {
+    font-size: 20px;
+}
+
+.wd-font-size-m {
+    font-size: 15px;
+}
+
+
+.wd-avatar-image {
+    border-radius: 50%;
+    width: 48px;
+}
+
+.wd-main-content-size {
+    width: 506px;
+}
+
+
+.wd-retuit-image-size {
+    width: 504px;
+    height: 264px;
+}
+
+.wd-retuit-content-size {
+    width: 472px;
+}
+
+.wd-bottom-radius {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.wd-top-radius {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.wd-icon-margin {
+    margin-left: 35px;
+    margin-right: 35px
+}
+
+.wd-icon-margin-right {
+    margin-right: 35px;
+}
+
+.wd-color-red {
+    color:rgb(217, 14, 116);
+}

@@ -1,6 +1,6 @@
 const NavigationSidebar = () => {
     return (`
-        <div class="list-group">
+        <div class="list-group text-center text-xl-start">
             <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1"
                 aria-disabled="true">
                 <i class="fab fa-twitter text-white"></i>

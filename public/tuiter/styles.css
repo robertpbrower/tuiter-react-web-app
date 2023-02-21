@@ -1,0 +1,47 @@
+.wd-bg-color-black {
+    background-color: black;
+}
+
+.wd-color-white {
+    color: white
+}
+
+.wd-border-thin {
+    border-width: 2px;
+}
+
+.wd-color-text-gray {
+    color: rgb(110, 118, 125);
+}
+
+.wd-border-solid {
+    border-style: solid;
+}
+
+.wd-border-color {
+    border-color: rgb(47, 51, 54);
+}
+
+.wd-float-done {
+    clear: both;
+}
+
+.wd-float-left {
+    float: left;
+}
+
+.wd-float-right {
+    float: right;
+}
+
+.wd-link-no-underline {
+    text-decoration: none;
+}
+
+.wd-font-size-s {
+    font-size: 13px;
+}
+
+.wd-left-padding {
+    padding-left: 16px;
+}

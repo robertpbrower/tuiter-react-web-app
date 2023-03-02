@@ -1,5 +1,4 @@
-const NavigationSidebar = () => {
-    return (`
+const NavigationSidebar = () => (`
         <div class="list-group text-center text-xl-start">
             <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1"
                 aria-disabled="true">
@@ -44,5 +43,4 @@ const NavigationSidebar = () => {
 
         </div>
     `);
-}
 export default NavigationSidebar;

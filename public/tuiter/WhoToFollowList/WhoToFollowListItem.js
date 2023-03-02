@@ -1,6 +1,6 @@
-function WhoToFollowListItem(who){
-   const {avatarIcon, userName, handle} = who;
-   return (`
+function WhoToFollowListItem(who) {
+  const { avatarIcon, userName, handle } = who;
+  return (`
     <li class="list-group-item">
     <div class="row align-items-center">
         <div class="col-2 px-xl-2 px-lg-1">
@@ -17,7 +17,7 @@ function WhoToFollowListItem(who){
         </div>
     </div>
 </li>
-   `)
+   `);
 }
 
 export default WhoToFollowListItem;

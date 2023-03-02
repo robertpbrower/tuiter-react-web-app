@@ -1,5 +1,3 @@
-/* eslint-disable react/button-has-type */
-/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 
 function WhoToFollowListItem({

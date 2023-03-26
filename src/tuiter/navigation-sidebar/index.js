@@ -3,7 +3,6 @@ import { Link, useLocation } from 'react-router-dom';
 
 function NavigationSidebar() {
   const active = useLocation().pathname
-  console.log(active)
   return (
     <div className="list-group">
       <Link

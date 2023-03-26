@@ -6,7 +6,6 @@ import { deleteTuit } from '../tuits/tuits-reducer';
 function TuitItem({ post }) {
   const dispatch = useDispatch();
   const deleteTuitHandler = (id) => {
-    console.log("DELETE")
     dispatch(deleteTuit(id));
   }
 

@@ -11,7 +11,7 @@ import { Provider } from "react-redux";
 import TuitList from './home/index.js';
 import Home from './home/index.js';
 const store = configureStore(
-  { reducer: { who: whoReducer, tuits: tuitsReducer } });
+  { reducer: { who: whoReducer, tuitsData: tuitsReducer } });
 
 function Tuiter() {
   return (

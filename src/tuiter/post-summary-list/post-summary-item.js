@@ -15,7 +15,7 @@ function PostSummaryItem({
         <div className="col-10">
           <div className="text-secondary">
 
-            {post.userName}
+            {post.username}
             {' '}
             -
             {' '}
